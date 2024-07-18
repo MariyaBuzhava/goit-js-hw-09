@@ -121,6 +121,9 @@ textarea {
   border: 1px solid #808080;
   border-radius: 3.5px;
 }
+textarea:hover {
+  border: 1px solid black;
+}
 
 button {
   font-family: "Montserrat", sans-serif;
@@ -140,5 +143,4 @@ button {
 
 button:hover {
   background-color: #6c8cff;
-  ;
 }
